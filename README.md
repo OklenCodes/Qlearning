@@ -5,4 +5,4 @@ I imported Matplotlib as i wanted to graph performances within certain episodes 
 
 NEXT STEP
 
-May involve creating a Q learning enviroment
+May involve creating a Q learning enviroment and seeing how the agent adapts to rewards and "enemy" with certain restrictions
