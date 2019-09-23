@@ -5,4 +5,4 @@ I imported Matplotlib as i wanted to graph performances within certain episodes 
 
 NEXT STEP
 
-May involve deep Q learning and or using the agent within a game
+May involve creating a Q learning enviroment
